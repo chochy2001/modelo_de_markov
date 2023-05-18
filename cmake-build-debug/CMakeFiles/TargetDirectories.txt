@@ -1,0 +1,3 @@
+/home/jorge/Documents/Inteligencia_Artificial/codigos/modelo_de_markov/cmake-build-debug/CMakeFiles/modelo_de_markov.dir
+/home/jorge/Documents/Inteligencia_Artificial/codigos/modelo_de_markov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jorge/Documents/Inteligencia_Artificial/codigos/modelo_de_markov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
