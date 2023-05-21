@@ -1,0 +1,6 @@
+# ninja log v5
+1	665	1684701250545992362	CMakeFiles/modelo_de_markov.dir/main.cpp.o	616c99e53aa0bb0b
+0	684	1684701250565991253	CMakeFiles/modelo_de_markov.dir/cadena_de_markov.cpp.o	2c08889748e1f55d
+684	759	1684701250641987039	modelo_de_markov	3a7f393a6266faa7
+1	636	1684701277208602777	CMakeFiles/modelo_de_markov.dir/main.cpp.o	616c99e53aa0bb0b
+636	705	1684701277276599457	modelo_de_markov	3a7f393a6266faa7
