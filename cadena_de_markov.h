@@ -1,3 +1,5 @@
+//Programa Realizado por Alejandro Rodriguez Larios y Jorge Salgado Miranda
+
 // Esta es la definición de la guarda de inclusión, que evita la inclusión múltiple
 // del mismo archivo de encabezado que podría causar problemas.
 #ifndef MODELO_DE_MARKOV_CADENA_DE_MARKOV_H

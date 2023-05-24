@@ -1,3 +1,5 @@
+//Programa Realizado por Alejandro Rodriguez Larios y Jorge Salgado Miranda
+
 // Incluimos el archivo de cabecera de nuestra clase CadenaDeMarkov.
 #include "cadena_de_markov.h"
 #include <numeric>
